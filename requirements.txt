@@ -1,0 +1,7 @@
+fire==0.1.3
+tqdm
+soundfile==0.10.3.post1
+unidecode
+numba
+librosa
+mpi4py>=3.0.0
